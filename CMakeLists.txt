@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(actividad_0_lista_enlazada_simple_GloriaAcostaHeredia)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(actividad_0_lista_enlazada_simple_GloriaAcostaHeredia main.cpp)

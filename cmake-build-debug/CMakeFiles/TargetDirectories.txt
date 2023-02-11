@@ -1,0 +1,3 @@
+C:/Users/usuario.DESKTOP-GDR7TES/Desktop/Primera actividad/actividad-0-lista-enlazada-simple-GloriaAcostaHeredia/cmake-build-debug/CMakeFiles/actividad_0_lista_enlazada_simple_GloriaAcostaHeredia.dir
+C:/Users/usuario.DESKTOP-GDR7TES/Desktop/Primera actividad/actividad-0-lista-enlazada-simple-GloriaAcostaHeredia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario.DESKTOP-GDR7TES/Desktop/Primera actividad/actividad-0-lista-enlazada-simple-GloriaAcostaHeredia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

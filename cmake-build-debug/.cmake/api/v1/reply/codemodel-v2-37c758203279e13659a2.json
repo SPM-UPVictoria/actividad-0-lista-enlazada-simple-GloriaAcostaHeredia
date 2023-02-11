@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "actividad_0_lista_enlazada_simple_GloriaAcostaHeredia",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "actividad_0_lista_enlazada_simple_GloriaAcostaHeredia::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-actividad_0_lista_enlazada_simple_GloriaAcostaHeredia-Debug-00a45b3898951acaf292.json",
+					"name" : "actividad_0_lista_enlazada_simple_GloriaAcostaHeredia",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/usuario.DESKTOP-GDR7TES/Desktop/Primera actividad/actividad-0-lista-enlazada-simple-GloriaAcostaHeredia/cmake-build-debug",
+		"source" : "C:/Users/usuario.DESKTOP-GDR7TES/Desktop/Primera actividad/actividad-0-lista-enlazada-simple-GloriaAcostaHeredia"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
